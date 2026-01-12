@@ -1,0 +1,7 @@
+const App = () => {
+  return (
+    <h1>Projeto FrontEnd</h1>
+  );
+}
+
+export default App;
